@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Kanaga!
 
-🎓 **BSc Hons Computer Science (AI) – First Class Honours**  
+🎓 **BSc Computer Science (AI) – First Class Honours**  
 🚀 Passionate about **Machine Learning, Data Analysis**, and building things that **make an impact**  
 💡 On a journey to explore **Open Source**, create cool projects, and **learn relentlessly**
 
@@ -58,10 +58,10 @@
 
 ## 📈 GitHub Stats (Even as a beginner, I’m progressing!)
 
-![Kanaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanaga-github&show_icons=true&theme=radical)
+![Kanaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanaga2004&show_icons=true&theme=radical)
 
 ### 🌍 Languages I've Been Exploring
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaga-github&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanaga2004&layout=compact&theme=radical)
 
 ---
 
@@ -79,6 +79,12 @@
 ## 🌐 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
 Let’s talk code, projects, or just geek out over tech!
+
+---
+## 🎮 Fun Hobbies
+- 🍿 **Anime** – Always exploring new shows (feel free to recommend one! My recommendation? **ONE PIECE 👒** )
+- 🎮 **Gaming** – From Roblox to Valorant, I enjoy a wide variety of games!
+- 🎶 **Music** – From **Bollywood breakups** to **Heavy Metal**, Spotify's probably questioning my life choices with every shuffle!
 
 ---
 
