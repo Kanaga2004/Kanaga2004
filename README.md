@@ -56,19 +56,22 @@
 
 ---
 
-## 📈 GitHub Stats (Because numbers are cool)
+## 📈 GitHub Stats (Even as a beginner, I’m progressing!)
 
-![Kanaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanaga2004&show_icons=true&theme=radical)
+![Kanaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanaga-github&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanaga2004&layout=compact&theme=radical)
+### 🌍 Languages I've Been Exploring
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaga-github&layout=compact&theme=radical)
 
 ---
 
 ## 🎯 Goals for 2025
 - 📂 Contribute to Open Source projects
 - 💼 Secure an full time job
-- 📈 Dive deeper into **Machine Learning** and **AI Ops**  
-- 🧩 Build tools that solve real-world problems  
+- 📈 Dive deeper into **Machine Learning** and **AI Ops**   
+- 🧩 Build tools that solve real-world problems
+- 📂 **Migrate old projects onto Git** and create new projects alongside
+- 💪 Be consistent work on more project
 - 🗣️ Connect, Collaborate & Contribute
 
 ---
